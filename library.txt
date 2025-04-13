@@ -1,0 +1,32 @@
+
+
+[
+    {
+        "title": "growth-mindset",
+        "author": "sana hussain",
+        "year": "2025",
+        "genre": "genious",
+        "read": true
+    },
+    {
+        "title": "science",
+        "author": "anma",
+        "year": "2024",
+        "genre": "bio",
+        "read": true
+    },
+    {
+        "title": "misn",
+        "author": "mis",
+        "year": "mis",
+        "genre": "mis ",
+        "read": false
+    },
+    {
+        "title": "life rules",
+        "author": "sana hussain",
+        "year": "2025",
+        "genre": "mysterious",
+        "read": true
+    }
+]
